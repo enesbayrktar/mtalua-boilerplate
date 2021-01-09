@@ -1,0 +1,2 @@
+# Base
+> A gamemode resource
